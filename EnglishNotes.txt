@@ -1,0 +1,216 @@
+General
+{
+
+strategic (reading) skills
+[recycling of | apply] (skills and strategies)
+build (academic) vocabulary
+a [variety] of academic reading and vocabulary-building skills)
+deprecate
+
+# Purpose
+
+target - directed toward a particular group or person
+image - a picture; an opinion or concept of something
+intended for
+update
+enhance
+[emphasize] the main idea; n. emphasis
+
+# Progress
+
+predict
+critical
+extensively
+[consciously] (applying the strategies)
+[continually] (review the skills and strategies)
+pay attention to
+on the rise, doubled (between (yr) and (yr))
+this [huge growth] has [raised] many important questions [about] mental health
+(doctors today) are [trained] to [recognize] (mental illnesses such as depression)
+... believe that ...
+weakness
+whereas
+
+# References
+
+external (resources | ...)
+
+# Result, Conclusion
+
+... [suggest] that ... - indicate - to say or show something in an indirect way
+This study suggests that participants in a discussion will lie to avoid embarrassment.
+appropriate
+guarantee
+[infer] the main idea (by reading the whole paragraph)
+[identify] the main ideas
+more research needs to [take place] (before these important questions are answered)
+with ..., it is clear that ...
+
+}
+
+Publication, Essay, Composition, Reading -> General # Conclusion
+{
+
+a smooth [transition] between the paragraphs
+topic, claim : too general
+background information
+supporting details
+summarize
+comment on
+main idea : not always [stated] directly, if the information in the sentences supports the main idea, repeat
+
+# Strategies
+
+make connection between two paragraphs
+
+# Purpose
+
+reading is [goal-oriented] and [strategic]
+[explore] opinions
+[synthesize] information
+
+# Acknowledgments
+
+many people have helped [shape] this edition of ...
+we are [grateful] to all of the [supportive] and [professional] staff of ... for the [opportunity] to create this new edition ...
+whose [dedication] and [attention to detail] know few limits
+we would [particularly] like to thank ... for ...
+? textbooks are only as good as the feedback that authors receive on them
+
+# Statement
+
+... has no [responsibility] for the [persistence] or [accuracy] of ...
+
+# Categories, Aspects
+
+language
+text organization
+thematically-related readings
+[dense] academic text
+
+}
+
+Health, Medication
+{
+
+medicine (drug, compound) can [transform] a [serious disease] from a [death sentence] to a [treatable condition]
+[search for] [compounds] that will [(take drugs to) fight the disease] (but not harm the [patient])
+if a [promising] compound is found, it it [further tested] until (the scientists believe it is safe to test on [human volunteers] in a [clinic trail])
+anti.retro.viral drugs
+mental illnesses (are on the rise in many developed countries)
+ordinary, daily routines
+depression
+better diagnosis of this disease
+
+}
+
+Business, Marketing
+{
+
+[apply to] the government for [permission] to [market] it
+president of a (chocolate | ...) company
+
+# Motivation, Advertisement, Selling
+
+(What) [motivate] (a consumer) to (do ...|[choose] one brand [over] another) - to cause someone to want to do something
+focus group - a representative group of people questioned together about their opinions on [political issues | consumer products | ...]
+(people in the) target market, high school market
+
+# Product -> Decision (Choose Products), Discussion
+
+advertise (a product | service)
+(re)design (new) products
+product type
+
+
+# Brands
+
+brand- the name of a company's product
+What brands of athletic shoes are the most popular at your school?
+a brand's image - the way people think about a brand and the people who use the brand
+
+}
+
+Decision
+{
+
+[differentiate] A from B - distinguish - to understand the difference between similar things
+An experienced oceanologist will differentiate one kind of fish from another. 
+choose to buy [certain products]
+decision-making process(es) of (consumers | ...)
+beliefs, attitudes, feelings
+[unconscious] (needs (also [influence] (many buying) decisions)) - not aware of oneself; not knowing : to have an effect on
+give [rational] reasons for (their purchases) - based on reasonable, logical thinking
+ 
+}
+
+Discussion
+{
+
+participant(s)
+avoid disagreeing (with others (in the group)) (or lie) to avoid [embarrassment]
+
+# Result
+
+unreliable
+
+# Topic, Leader, Style
+
+a skilled discussion leader
+focus (the conversation) on
+free discussion
+ask for opinions directly
+the group's answers tell researchers a lot about (a brand's image)
+
+# Question
+
+general questions (about (product type | ...))
+(more) specific questions
+open-ended questions - (allow the group's participants to ) answer in their own words (and in ways the (discussion leader) may not expect)
+limited-choice questions
+
+}
+
+Invitation
+{
+
+you are [cordially] invited to ...    
+
+}
+
+Feature, Content (of exhibition)
+{
+
+(this exhibition) will [feature] (painting | printmaking | drawing | calligraphy | ceramics | photography | digital art | ...)
+
+}
+
+Management
+{
+
+the [exclusive] use of top management within an organization
+feasibility - The state of being feasible or possible
+
+}
+
+Financial
+{
+
+These reports are prepared utilizing scientific and statistical methods to arrive at certain [monetary] values which are then used for decision making. 
+profitability - The capacity to make a profit.
+liquidity - Availability of cash over short term: ability to service short-term debt.
+solvency - The state of having enough funds or liquid assets to pay all of one's debts; the state of being solvent.
+? stability
+? audit
+
+}
+
+Legal
+{
+
+disclosure - A previously hidden fact or series of facts that is made known.
+statutory - Of, relating to, enacted or regulated by a statute(law).
+[subject] to [statutory] exception and to the [provisions] of [relevant] [collective] licensing agreements ...
+Specific standards and formats may be required for [statutory] accounts ...
+
+}
