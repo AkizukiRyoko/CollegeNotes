@@ -15,6 +15,7 @@ intended for
 update
 enhance
 [emphasize] the main idea; n. emphasis
+amend
 
 # Progress
 
@@ -237,6 +238,85 @@ flagrantly
 be open to [enquiry]
 stray into
 [clash] between
+a reflection of
+total [outlook] on society over the [interval] between these two [pronouncements]
+echo
+bewilderment
+form
+on closer [inspection]
+trivial
+presumptuous
+broach
+legitimate
+moralize
+profound
+aphorism
+intone
+incantation
+tiresome
+obligation
+positivist
+stake out
+cult
+ascertain
+empiricist
+dominant strain
+presuppose
+a complete separation between
+sense-impression
+impinge
+reception
+tendentious
+datum
+distinct
+corpus
+inscription
+fishmonger
+slab
+appeal to
+culinary
+austere
+alike
+Bishop
+Fairbairn
+Gasquet
+Liebermann
+Harrison
+pulp, pulpy
+disputable
+interpretation
+plunge
+peril
+dictum
+sacred
+embark
+philosophical
+Caesar
+Rubicon
+in a comparable manner
+consciousness
+[bold | plausible] assumption
+criterion
+distinguish
+crucial
+backbone
+Hastings
+call for
+observation
+primarily
+no doubt
+Eastbourne
+Brighton
+Housman
+virtue
+accuracy
+praise
+timber
+auxiliary
+archaeology
+epigraphy
+numismatic
+chronology
 
 
 }
