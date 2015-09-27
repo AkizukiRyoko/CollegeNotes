@@ -6,6 +6,31 @@ strategic (reading) skills
 build (academic) vocabulary
 a [variety] of academic reading and vocabulary-building skills)
 deprecate
+fulfillment
+bibliography
+systematically
+autonomy
+accusation
+plagiarism
+pass off
+wholly
+validity
+unintentionally
+omission
+numerous
+placement
+edit
+bracket
+prioritise
+generalized
+wealthy countries
+urgent
+complex
+enormously high
+approximately
+overleaf
+syllabus
+glorious
 
 # Purpose
 
@@ -102,6 +127,105 @@ mental illnesses (are on the rise in many developed countries)
 ordinary, daily routines
 depression
 better diagnosis of this disease
+epidemiological
+convergence
+diarrhoeal diseases
+emerge
+infection
+cholera
+respiratory
+pneumonia
+tuberculosis
+persistently
+mortality
+cirrhosis
+hepatitis
+liver
+complacent
+bulk
+coronary artery disease
+fatality
+stroke
+hypertension
+cardiovascular diseases
+chronic obstructive pulmonary disease
+bronchitis
+emphysema
+obese
+paradoxically
+chronic
+susceptible
+comorbidity
+hyperlipidemia
+renal
+attributable to
+anticipate
+profoundly
+preventable
+data extrapolation
+steeply
+population-based burden
+westernization
+complication
+incidence
+energy overconsumption
+sedentary lifestyle
+epidemic
+renal replacement
+dialysis
+transplantation
+secretion
+hyperglycemia
+precedent
+pathophysiological
+metabolic derangement
+thereby
+hepatic gluconeogenesis
+deficiency
+ketoacidosis
+monozygotic twins
+concordance
+predisposition
+dysfunction
+evident
+dyslipidemia
+endocrine
+polycystic ovary syndrome
+defect
+in the face of
+curb
+cornerstone
+conversion
+impaired glucose tolerance
+conversion
+susceptibility
+catastrophic
+pathogenesis
+abdominal
+atherothrombotic
+hypertriglyceridemia
+glucose
+substrate
+tissue
+cellular
+cascade
+receptor
+phosphorylation
+subcellular
+regulator
+glucose transporter
+cell cytosol
+cell surface
+perturb
+mutation
+lipotoxicity
+inflammation
+intracellular
+lipid
+hyperinsulinemia
+pancreatic
+nutrient excess
+diminish
 
 }
 
@@ -110,6 +234,19 @@ Business, Marketing
 
 [apply to] the government for [permission] to [market] it
 president of a (chocolate | ...) company
+fraud
+scandal
+shareholder
+bankrupt
+exaggerate
+executive
+sentence to
+financial crisis
+loan
+paperwork
+bonus
+accountability
+corruption
 
 # Motivation, Advertisement, Selling
 
@@ -317,7 +454,6 @@ archaeology
 epigraphy
 numismatic
 chronology
-
 
 }
 
